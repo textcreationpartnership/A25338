@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Ancient legal course and fundamental constitution of the Palace-court or Marshalsea together with the several charges of all proceedings there, and its present establishment : particularly set forth and explained : whereby it will appear of what great authority this court hath been in all times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25338</idno>
+            <idno type="STC">Wing A3070</idno>
+            <idno type="STC">ESTC R37039</idno>
+            <idno type="EEBO-CITATION">16187548</idno>
+            <idno type="OCLC">ocm 16187548</idno>
+            <idno type="VID">105031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1084:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Ancient legal course and fundamental constitution of the Palace-court or Marshalsea together with the several charges of all proceedings there, and its present establishment : particularly set forth and explained : whereby it will appear of what great authority this court hath been in all times.</title>
+               </titleStmt>
+               <extent>[12], 57 [i.e. 55] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Crofts ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Marshalsea Court.</term>
+               <term>Court administration --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105031:1"/>
+            <p>THE Ancient Legal Courſe AND Fundamental Conſtitution OF THE <hi>PALACE-CO<g ref="char:V">Ʋ</g>RT</hi> OR <hi>MARSHALSEA.</hi>
+            </p>
+            <p>Together with the ſeveral <hi>Charges</hi> of all <hi>Proceedings</hi> there; And its preſent Eſtabliſhment: Particularly ſet forth and Explained.</p>
+            <p>Whereby it will appear of what great <hi>Authority</hi> this <hi>Court</hi> hath been in all Times.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Crofts</hi> at the <hi>Crown</hi> in <hi>Chancery-lane.</hi> 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105031:2"/>
+            <pb facs="tcp:105031:2"/>
+            <head>To the READER.</head>
+            <p>IN order to a ſatisfacto<g ref="char:EOLhyphen"/>ry account of this Court and of this endevour in this Treatiſe, to ſhew the nature of its Jurisdiction, its method of Proceeding, and the <hi>Clients</hi> (both <hi>Paintiffes</hi> and <hi>Defen<g ref="char:EOLhyphen"/>dants</hi>) Charge therein, it will be requiſite, though in a prepoſterous
+<pb facs="tcp:105031:3"/>way, firſt to ſhow the annihilation or nulling of it in late Times of the <hi>Uſurpation,</hi> and the be<g ref="char:EOLhyphen"/>ginning of its <hi>conſtitu<g ref="char:EOLhyphen"/>tion,</hi> and the <hi>reaſon</hi> thereof.</p>
+            <p>Indeed, that <hi>Diſau<g ref="char:EOLhyphen"/>thorizing By-blow</hi> of the <hi>Independent Anarchy,</hi> might very well be <hi>for<g ref="char:EOLhyphen"/>gotten</hi> here, were it not that the <hi>injurious conti<g ref="char:EOLhyphen"/>nuance</hi> of that <hi>Illegal
+<pb facs="tcp:105031:3"/>Suppreſſion,</hi> had almoſt defaced the <hi>Memory</hi> and <hi>Record</hi> thereof, and the ruine of this <hi>Judicature</hi> changed into and become its <hi>crime;</hi> which was imputed to be its <hi>charge<g ref="char:EOLhyphen"/>ableneſs, uſeleſneſs, di<g ref="char:EOLhyphen"/>latorineſs</hi> and <hi>vexation;</hi> whereas indeed it was guilty of <hi>none of thoſe,</hi> nay of nothing leſs.</p>
+            <p>All the fault was, this <hi>Court</hi> was one of the
+<pb facs="tcp:105031:4"/>neereſt Appendixes of the prerogative of the Crown; and if continued in its primitive uſe, would be a <hi>remain</hi> and <hi>relique</hi> of <hi>Monarchy</hi> and <hi>Maje<g ref="char:EOLhyphen"/>ſty,</hi> which they could by no means endure ſhould be in the eyes of the <hi>Peo<g ref="char:EOLhyphen"/>ple;</hi> which for the <hi>acco<g ref="char:EOLhyphen"/>modateneſs</hi> and <hi>benefit</hi> of its <hi>Jurisdiction,</hi> did ſeek for ſpeedy redreſſe from thence rather than
+<pb facs="tcp:105031:4"/>elſewhere. They likewiſe enviouſly knew, that this <hi>Court</hi> was a standing <hi>Monument</hi> of that <hi>re<g ref="char:EOLhyphen"/>ſpect</hi> and <hi>reverence</hi> all <hi>Parliaments</hi> and the <hi>Laws</hi> have throughout all Times had for the <hi>King,</hi> allowing His <hi>Court</hi> the circuit and compaſs which is now called the <hi>Verge</hi> of <hi>Twelve Miles round about it;</hi> ſo that in effect there is no <hi>Potentate</hi> or
+<pb facs="tcp:105031:5"/>
+               <hi>Prince</hi> in the <hi>World</hi> can ſhew a <hi>Palace</hi> of ſuch an extent, nor can any the moſt magnificent <hi>Se<g ref="char:EOLhyphen"/>raglio</hi> compare with it; as my Lord <hi>Bacon</hi> hath moſt elegantly obſerved in his <hi>Charge</hi> to the <hi>Grand Jury</hi> of this Court.</p>
+            <p>Nor did they take care alone for the <hi>outward State</hi> and <hi>Splendour</hi> of the <hi>Kings Palace</hi> in theſe dimenſions, but for the
+<pb facs="tcp:105031:5"/>
+               <hi>inward Honour</hi> and <hi>Glory</hi> thereof, by pre<g ref="char:EOLhyphen"/>ſerving it as much as was poſſible, free from <hi>diſor<g ref="char:EOLhyphen"/>der</hi> and all manner of <hi>Enormity,</hi> by erecting this <hi>Judicature,</hi> appoin<g ref="char:EOLhyphen"/>ting and giving extraor<g ref="char:EOLhyphen"/>dinary <hi>power</hi> and <hi>autho<g ref="char:EOLhyphen"/>rity</hi> to the <hi>Steward</hi> of the <hi>Kings Houſhold,</hi> the principal Judge here, to determine all manner of Cauſes <hi>criminal, ju<g ref="char:EOLhyphen"/>dicial</hi>
+               <pb facs="tcp:105031:6"/>or <hi>capital</hi> ariſing within the <hi>Verge;</hi> and this they ſtrengthned and backed with ſeveral <hi>laws</hi> as you will perceive in the enſuing <hi>Treatiſe;</hi> which ſaid <hi>power</hi> is now again happily returned into the ſame channel And ſo much may ſuffice to be ſpoke of its <hi>Original In<g ref="char:EOLhyphen"/>ſtitution.</hi>
+            </p>
+            <p>As to the <hi>Practice,</hi> the Diſuſe thereof having
+<pb facs="tcp:105031:6"/>made it ſomething diffi<g ref="char:EOLhyphen"/>cult, and the <hi>charge</hi> of <hi>Suit</hi> there ſuſpectful of innovation, I have given an accompt of the ſeveral <hi>Rates</hi> thereof, that by a due <hi>compare</hi> it may ap<g ref="char:EOLhyphen"/>pear they are the ſame as ever; and alſo to let the <hi>Reader</hi> ſee the eaſineſſe of them beyond the charge of other Courts; its <hi>di<g ref="char:EOLhyphen"/>ſpatch</hi> and <hi>preſent en<g ref="char:EOLhyphen"/>ding</hi> of all <hi>Suits;</hi> and
+<pb facs="tcp:105031:7"/>that finally its <hi>Authority</hi> is as <hi>Authentick</hi> and as <hi>ſoveraign</hi> as any other, it being a kind of peculiar <hi>Kings-Bench.</hi>
+            </p>
+            <p>Both the <hi>Name, Na<g ref="char:EOLhyphen"/>ture,</hi> and <hi>Proceedings</hi> thereof, are fully declared in the enſuing <hi>Tract,</hi> to your Peruſal and Accep<g ref="char:EOLhyphen"/>tance whereof we Com<g ref="char:EOLhyphen"/>mend it.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105031:7"/>
+            <head>THE PALACE-CO<g ref="char:V">Ʋ</g>RT.</head>
+            <p>IT is requiſite firſt, that the Nature of this <hi>Court</hi> be under<g ref="char:EOLhyphen"/>ſtood, and that more eſpecially, becauſe the
+<pb n="2" facs="tcp:105031:8"/>late <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation</hi> had en<g ref="char:EOLhyphen"/>devoured to race out and obliterate the <hi>Ju<g ref="char:EOLhyphen"/>risdiction</hi> thereof, meer<g ref="char:EOLhyphen"/>ly for being conſiſtent and ſuted to the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Laws, and more eſpecially to the <hi>Kings Perſon,</hi> His <hi>Court,</hi> and His <hi>Royalties,</hi> the ſoul and intrinſick matter of <hi>Government.</hi>
+            </p>
+            <div type="part">
+               <pb n="3" facs="tcp:105031:8"/>
+               <head>Firſt, of the Antiquity thereof.</head>
+               <p>FOr the <hi>Antiquity</hi> of this <hi>Court,</hi> it is as ancient as any other of the <hi>Kings Courts,</hi> if not ancienter: <hi>Curia ſequi<g ref="char:EOLhyphen"/>tur Regem,</hi> The Court followeth the KING; and it is therefore pe<g ref="char:EOLhyphen"/>culiarly called the <hi>Pa<g ref="char:EOLhyphen"/>lace Court,</hi> referring to
+<pb n="4" facs="tcp:105031:9"/>the KINGS reſidence; and this <hi>Court</hi> doth more eſpecially con<g ref="char:EOLhyphen"/>cern Him, as appears by the <hi>Statute</hi> of 4 <hi>H.</hi> 6.8. directing us to the <hi>Statute</hi> of the Twenty eighth of <hi>Edward</hi> the Firſt,
+<note place="margin">
+                     <hi>Coke</hi> cap. 18. <hi>Jurisdiction of Courts.</hi>
+                  </note> 
+                  <hi>Articuli ſuper Chartas;</hi> wherein ſeveral Provi<g ref="char:EOLhyphen"/>ſions were made for the advantage thereof. No doubt it is of as long
+<pb n="5" facs="tcp:105031:9"/>ſtanding as the <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> of ENGLAND. <hi>Fleta</hi> ſaith it is next to the <hi>High Court of Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The <hi>Marſhal</hi> and <hi>Mar<g ref="char:EOLhyphen"/>ſhalſea,</hi> whence ſo called.</head>
+               <p>FOr it will appeare by the terme and name of this <hi>Court,</hi> that
+<pb n="6" facs="tcp:105031:10"/>it was of the ſame neer beginning with the <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> Soveraignty: For as to the derivation of the terms <hi>Mareſchallus</hi> and <hi>Mareſcalcia,</hi> they are <hi>Saxon</hi> words, which nevertheleſs tend much to the proof of the <hi>An<g ref="char:EOLhyphen"/>tiquity</hi> and <hi>Honour</hi> of our <hi>Nation,</hi> ſeeing other <hi>Nations</hi> have the ſame Offices and Officers; ſo that in reſpect the
+<pb n="7" facs="tcp:105031:10"/>name is derived from our <hi>Language,</hi> as tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of our Anceſtours, i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is apparent other <hi>Nati<g ref="char:EOLhyphen"/>ons</hi> took the ſame from us</p>
+               <p>My Lord Juſtice <hi>Coke</hi> ſaith further, That th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Court</hi> hath its <hi>Founda<g ref="char:EOLhyphen"/>tion</hi> from the <hi>Common Law,</hi> and the <hi>Jurisdicti<g ref="char:EOLhyphen"/>on</hi> thereof is original and ordinary.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:105031:11"/>
+               <head>The Jurisdiction and au<g ref="char:EOLhyphen"/>thority of this Court, and firſt of its Name.</head>
+               <p>ALbeit in this <hi>Court</hi> the <hi>Steward</hi> and <hi>Marſhall</hi> are <hi>Judges,</hi> and the <hi>Steward</hi> hath the precedency, yet the <hi>Court</hi> is called the <hi>Mar<g ref="char:EOLhyphen"/>ſhalſea</hi> for three cauſes.</p>
+               <p>Firſt, the <hi>Marſhall</hi> is not onely a <hi>Judge,</hi> but
+<pb n="9" facs="tcp:105031:11"/>ſeeth <hi>that Execution, which is the Life of the Law,</hi> be done.</p>
+               <p>Secondly, his Office is in force both in time of <hi>War</hi> and <hi>Peace.</hi>
+               </p>
+               <p>Though the <hi>Conſtable</hi> of <hi>England</hi> be the chief <hi>Nobleman</hi> (which from the Family of the <hi>Bo<g ref="char:EOLhyphen"/>huns</hi> Earls of <hi>Hereford,</hi> deſcended by Inheri<g ref="char:EOLhyphen"/>tance upon the Perſon of <hi>Edward</hi> Duke of
+<pb n="10" facs="tcp:105031:12"/>
+                  <hi>Buckingham,</hi> Attainted the <hi>thirteenth</hi> Year of <hi>Henry</hi> the <hi>Eighth,</hi> in whom that too maſter<g ref="char:EOLhyphen"/>ly an Honour fell) and hath the precedency in other places, of the <hi>Marſhal</hi> of <hi>England,</hi> yet notwith-ſtanding though their Power and Authority were ſo untempered, yet the <hi>Marſhal-ſea</hi> carried it through the <hi>Current</hi> of the <hi>Laws.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:105031:12"/>
+               <head>The Authority of the Court.</head>
+               <p>THe Authority of this <hi>Court</hi> was lar<g ref="char:EOLhyphen"/>ger formerly then now, according to the <hi>Pre<g ref="char:EOLhyphen"/>rogative</hi> of our former <hi>Princes,</hi> but in the <hi>Twenty Eighth</hi> year of that noble Prince <hi>Edw.</hi> the <hi>Firſt,</hi> by an <hi>Act</hi> in<g ref="char:EOLhyphen"/>tituled <hi>Articuli ſuper
+<pb n="12" facs="tcp:105031:13"/>Chart as,</hi> the Juriſdiction was limited and divi<g ref="char:EOLhyphen"/>ded into three Qualifi<g ref="char:EOLhyphen"/>cations;</p>
+               <p>Firſt, to determine all <hi>Covenants, Contracts,</hi> and <hi>Treſpaſſes,</hi> wherein both <hi>Plaintiff</hi> and <hi>De<g ref="char:EOLhyphen"/>fendant</hi> were of the Kings Houſhold.</p>
+               <p>Secondly, all <hi>Con<g ref="char:EOLhyphen"/>tracts</hi> and <hi>Covenants,</hi> which ſhould ariſe in <hi>Controverſie,</hi> if either of
+<pb n="13" facs="tcp:105031:13"/>the Parties were of the ſaid Houſhold.</p>
+               <p>Thirdly, for all man<g ref="char:EOLhyphen"/>ner of <hi>Treſpaſſes</hi> and <hi>Perſonal Actions</hi> ariſing within the Verge of the <hi>Kings</hi> Houſhold.</p>
+               <p>Several Variations have been made by Acts of PARLIAMENT ſince, but now the E<g ref="char:EOLhyphen"/>ſtabliſhment is as fol<g ref="char:EOLhyphen"/>loweth;</p>
+               <pb n="14" facs="tcp:105031:14"/>
+               <p> This Court is kept every <hi>Friday</hi> in the <hi>Court-houſe</hi> on St. <hi>Mar<g ref="char:EOLhyphen"/>garets hill</hi> in <hi>Southwark,</hi> and may be held in any other fit place within 12. Miles of <hi>White-hall.</hi>
+               </p>
+               <p>The Judges, are, the Lord Stewards of the Kings Houſe, and the Knight Marſhal for the time being, and the Steward of the Court or his Deputy.</p>
+               <pb n="15" facs="tcp:105031:14"/>
+               <p> The proceedings in this Court is by Capias or Attachment, which is to be ſerved upon the Defendant, by one of the Knight Marſhalls men, who taketh Bond with ſuch Sureties for the Defendants appea<g ref="char:EOLhyphen"/>rance at the next Court as he will anſwer for, at his perill, the Bayle are to be ſufficient Houſe<g ref="char:EOLhyphen"/>keepers within the Ju<g ref="char:EOLhyphen"/>riſdiction
+<pb n="16" facs="tcp:105031:15"/>of the Court, ſufficient to the Action.</p>
+               <p>And theſe Proceſſes are to be had at the Office of the ſame <hi>Court,</hi> appointed by the <hi>Steward,</hi> which every Miniſter of the Court or Marſhalls-man can direct you to.</p>
+               <p>The Defendant up<g ref="char:EOLhyphen"/>on his appearance muſt put in two ſufficient Houſe keepers, living
+<pb n="17" facs="tcp:105031:15"/>within the Juriſdiction of the Court, to pay the Condemnation in Court, which if he neg<g ref="char:EOLhyphen"/>lect to do, the Plaintiffe may have the Bond taken for his appea<g ref="char:EOLhyphen"/>rance Aſſigned over to his uſe, and ſo Arreſt the Defendant and his Sureties.</p>
+               <p>The next Court af<g ref="char:EOLhyphen"/>ter the Babyle taken and accepted of by the
+<pb n="18" facs="tcp:105031:16"/>Plaintiffe, the Plaintiffe ought to declare and ſet forth the cauſe of his Action, and if he do not declare the Defen<g ref="char:EOLhyphen"/>dant may have an Exe<g ref="char:EOLhyphen"/>cution againſt him for his coſts and charges, but if the Plaintiffe do declare againſt him then they go on to Iſſue and Tryall by a Jury, who live within the Ju<g ref="char:EOLhyphen"/>riſdiction of the Court,
+<pb n="19" facs="tcp:105031:16"/>according to the courſe of the Common-Law.</p>
+               <p>In foure or five Court days, commonly all your Actions come to Tryal, ſo the pro<g ref="char:EOLhyphen"/>ceedings of this Court are very quick and ſpeedy, and at ſmall Charges.</p>
+               <p>The Actions tryed there, are of Debt, Treſ<g ref="char:EOLhyphen"/>paſſe, Battery, Slander, <hi>Trover,</hi> and all other
+<pb n="20" facs="tcp:105031:17"/>Actions perſonal what<g ref="char:EOLhyphen"/>ſoever.</p>
+               <p>The Fees of this Court I have here ſet down as they are in<g ref="char:EOLhyphen"/>ſerted in the <hi>Letters-Patents.</hi>
+               </p>
+               <p>The ordinary Fees of the Pallace Court of <hi>Weſtminſter,</hi> to be paid by the <hi>Plaintiff.</hi>
+               </p>
+               <pb n="21" facs="tcp:105031:17"/>
+               <p> 
+                  <hi>IMprimis,</hi> for every <hi>Writ</hi> or <hi>Precept</hi> of <hi>Capias</hi> or <hi>Attachment</hi> to the <hi>Steward</hi> and <hi>Mar<g ref="char:EOLhyphen"/>ſhal, One Shilling.</hi>
+               </p>
+               <p>To the <hi>Prothonotary</hi> for <hi>Writing</hi> the <hi>Writ, Two Pence.</hi>
+               </p>
+               <p>To the <hi>Marſhalls man</hi> for <hi>executing</hi> or <hi>ſer<g ref="char:EOLhyphen"/>ving</hi> it, <hi>One Shilling Four pence.</hi>
+               </p>
+               <p>The <hi>Attorneys</hi> Fee upon every <hi>Declara<g ref="char:EOLhyphen"/>tion,
+<pb n="22" facs="tcp:105031:18"/>Iſſue, Venire Fa<g ref="char:EOLhyphen"/>cias,</hi> and <hi>Habeas corpo<g ref="char:EOLhyphen"/>ra Juratorum.</hi> One Shil<g ref="char:EOLhyphen"/>ling Eight pence.</p>
+               <p>For the <hi>Warrant</hi> of <hi>Attourney</hi> to the <hi>Pro<g ref="char:EOLhyphen"/>thonotary. Four Pence.</hi>
+               </p>
+               <p>For making of every <hi>Declaration,</hi> and <hi>Entry</hi> thereof to the <hi>Protho<g ref="char:EOLhyphen"/>notaries</hi> Clerks, <hi>One Shilling.</hi>
+               </p>
+               <p>For the Fee of the Court upon every <hi>De<g ref="char:EOLhyphen"/>claration,
+<pb n="23" facs="tcp:105031:18"/>Iſſue,</hi> and <hi>knowledge</hi> of <hi>Satisfacti<g ref="char:EOLhyphen"/>on</hi> to the <hi>Steward</hi> and <hi>Marſhall, One Shilling four pence.</hi>
+               </p>
+               <p>For the marking and Filing of every <hi>Decla<g ref="char:EOLhyphen"/>ration,</hi> and <hi>Entry</hi> of every <hi>Sasisfaction</hi> to the <hi>Prothonotary, eight pence</hi>
+               </p>
+               <p>To the <hi>Prothonotary</hi> for <hi>entring</hi> of every <hi>Iſ<g ref="char:EOLhyphen"/>ſue,</hi> and every <hi>Verdict</hi> and <hi>Judgement, One ſhil<g ref="char:EOLhyphen"/>ling.</hi>
+               </p>
+               <pb n="24" facs="tcp:105031:19"/>
+               <p> The <hi>Cryers Fee</hi> upon every <hi>Iſſue, Four pence.</hi>
+               </p>
+               <p>For every <hi>Writ</hi> of <hi>Venire facias, Habeas corpora, diſtringas Jura<g ref="char:EOLhyphen"/>tores;</hi> and for every o<g ref="char:EOLhyphen"/>ther Writ of <hi>Execu<g ref="char:EOLhyphen"/>tion</hi> and others, <hi>One ſhil<g ref="char:EOLhyphen"/>ling</hi> and <hi>eight pence.</hi>
+               </p>
+               <p>To the <hi>Prothonotary</hi> for writing of every of them, <hi>Four pence.</hi>
+               </p>
+               <p>For the <hi>Return</hi> of e<g ref="char:EOLhyphen"/>very one of them to the
+<pb n="25" facs="tcp:105031:19"/>
+                  <hi>Prothonotary, One ſhil<g ref="char:EOLhyphen"/>ling.</hi>
+               </p>
+               <p>To the <hi>Marſhalls</hi> Man for executing e<g ref="char:EOLhyphen"/>very <hi>Venire facias, Two ſhillings.</hi>
+               </p>
+               <p>For the executing of the <hi>Habeas Corpora,</hi> and <hi>diſtring as Juratores,</hi> to the <hi>Marſhalls</hi> man, <hi>One ſhilling</hi> and <hi>ſix pence.</hi>
+               </p>
+               <p>To the Cryer for warning of the <hi>Jury, Six pence.</hi>
+               </p>
+               <pb n="26" facs="tcp:105031:20"/>
+               <p> For every Verdict and Judgement there<g ref="char:EOLhyphen"/>upon, to the <hi>Steward</hi> and <hi>Knight Marſhall, Three ſhillings</hi> and <hi>Four pence.</hi>
+               </p>
+               <p>To the <hi>Prothonotary</hi> for entring every Bail, <hi>Five pence.</hi>
+               </p>
+               <p>To the Keeper of the Priſon thereupon, <hi>A Penny.</hi>
+               </p>
+               <p>For the Attourneys Fee upon every Bill of
+<pb n="27" facs="tcp:105031:20"/>
+                  <hi>Iſſue, Venire facias,</hi> and <hi>Habeas Corpora Jurato<g ref="char:EOLhyphen"/>rum, One ſhilling</hi> and <hi>eight pence.</hi>
+               </p>
+               <p>For the Copy of e<g ref="char:EOLhyphen"/>very <hi>Declaration</hi> to the <hi>Prothonotary, One ſhil<g ref="char:EOLhyphen"/>ling.</hi>
+               </p>
+               <p>For every Iſſue on the <hi>Defendants</hi> part, to the <hi>Steward</hi> and <hi>Mar<g ref="char:EOLhyphen"/>ſhall, One ſhilling</hi> and <hi>Four pence.</hi>
+               </p>
+               <pb n="28" facs="tcp:105031:21"/>
+               <p> For every Warrant of Attourney for the Defendant, thereupon to the <hi>Prothonotary, Four pence.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Accidental Fees.</head>
+               <p>FOr every Rule of Court to the <hi>Pro<g ref="char:EOLhyphen"/>thonotary, Four pence.</hi>
+               </p>
+               <p>For the Drawing of
+<pb n="29" facs="tcp:105031:21"/>every <hi>Declaration, Plea, Rejoynder, Sur-rejoyn<g ref="char:EOLhyphen"/>der, Moratur in Lege,</hi> for every Sheet to the <hi>Prothonotaries</hi> Clerk, <hi>Four pence.</hi>
+               </p>
+               <p>For the Inrolment thereof, to the <hi>Protho<g ref="char:EOLhyphen"/>notary</hi> for every Sheet, <hi>Eight pence.</hi>
+               </p>
+               <p>For every Writ of <hi>Subpena</hi> to the <hi>Steward</hi> and <hi>Marſhall, Two ſhil<g ref="char:EOLhyphen"/>lings.</hi>
+               </p>
+               <pb n="30" facs="tcp:105031:22"/>
+               <p> For the writing there<g ref="char:EOLhyphen"/>of, and of every <hi>decem tales,</hi> and of every <hi>Re<g ref="char:EOLhyphen"/>traxit</hi> to the <hi>Prothono<g ref="char:EOLhyphen"/>tary, Six pence.</hi>
+               </p>
+               <p>For the allowing of every Writ of <hi>Proce<g ref="char:EOLhyphen"/>dendo,</hi> to the <hi>Steward</hi> and <hi>Marſhall, One ſhil<g ref="char:EOLhyphen"/>ling</hi> and <hi>eight pence.</hi>
+               </p>
+               <p>For the Entry there<g ref="char:EOLhyphen"/>of, and of every Con<g ref="char:EOLhyphen"/>tinuation, and for the Aſſigning of an Obli<g ref="char:EOLhyphen"/>gation
+<pb n="31" facs="tcp:105031:22"/>for Appearance on Record to the <hi>Pro<g ref="char:EOLhyphen"/>thonotary, Eight pence.</hi>
+               </p>
+               <p>To the <hi>Marſhalls</hi> man for keeping the <hi>Jury, One ſhilling.</hi>
+               </p>
+               <p>To the <hi>Hall-keeper, One ſhilling.</hi>
+               </p>
+               <p>To every Councel<g ref="char:EOLhyphen"/>lor at Law for his Fee, <hi>Five ſhillings.</hi>
+               </p>
+               <p>To the Cryer for Proclamation of every Jury, <hi>Six pence.</hi>
+               </p>
+               <pb n="32" facs="tcp:105031:23"/>
+               <p> To the Attourneys Clerk for every Bill of Coſts, <hi>Eight pence.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>For ordinary Fees to be paid by the Defendant.</head>
+               <p>FOR the Knight-Marſhalls Fee upon every Arreſt, <hi>Three ſhillings</hi> and <hi>Six pence.</hi>
+               </p>
+               <p>To the <hi>Prothonotary</hi>
+                  <pb n="33" facs="tcp:105031:23"/>thereupon, <hi>Ten pence.</hi>
+               </p>
+               <p>To the Keeper of the Priſon thereupon, <hi>Four pence.</hi>
+               </p>
+               <p>To the Turn-key thereupon, <hi>Four pence.</hi>
+               </p>
+               <p>For every Bail in Court, and every Bill to the <hi>Steward</hi> and <hi>Knight Marſhall, One ſhilling</hi> and <hi>Four pence.</hi>
+               </p>
+               <p>For executing every Writ of <hi>Scire facias,</hi> to the Cryer, <hi>One ſhilling.</hi>
+               </p>
+               <pb n="34" facs="tcp:105031:24"/>
+               <p> For the Copy of e<g ref="char:EOLhyphen"/>very Record, to the <hi>Prothonotary</hi> for every Sheet thereof, <hi>Four pence.</hi>
+               </p>
+               <p>To the Cryer for e<g ref="char:EOLhyphen"/>very <hi>non pros, four pence.</hi>
+               </p>
+               <p>For every <hi>Venire fa<g ref="char:EOLhyphen"/>cias, Habeas corpora,</hi> or <hi>Diſtring as Juratores per proviſo,</hi> to the <hi>Steward</hi> and <hi>Knight Marſhall, One ſhilling</hi> and <hi>Eight pence.</hi>
+               </p>
+               <pb n="35" facs="tcp:105031:24"/>
+               <p> For writing thereof to the Prothonotary, <hi>Four pence.</hi>
+               </p>
+               <p>For executing there<g ref="char:EOLhyphen"/>of, to the <hi>Cryer, Two Shillings.</hi>
+               </p>
+               <p>For the Return thereof to the Protho<g ref="char:EOLhyphen"/>notary, <hi>One ſhilling.</hi>
+               </p>
+               <p>For the keeping the Jurors thereof, to the Cryer, <hi>One ſhilling.</hi>
+               </p>
+               <p>For every <hi>Non pros,</hi> and every Allowance
+<pb n="36" facs="tcp:105031:25"/>of <hi>Habeas Corpus, Writ of priviledge, Superſe<g ref="char:EOLhyphen"/>deas,</hi> and every other ſuch like Writ, to the Steward and Marſhall, <hi>One ſhilling</hi> and <hi>Eight pence.</hi>
+               </p>
+               <p>For the Entry of e<g ref="char:EOLhyphen"/>very one of them, on Record, to the Pro<g ref="char:EOLhyphen"/>thonotary, <hi>Eight pence.</hi>
+               </p>
+               <p>For the Return of e<g ref="char:EOLhyphen"/>very ſuch Writ to the Steward and Marſhall,
+<pb n="37" facs="tcp:105031:25"/>
+                  <hi>One ſhilling</hi> and <hi>Four pence.</hi>
+               </p>
+               <p>For writing the Re<g ref="char:EOLhyphen"/>turn thereof, for every Action to the Pro<g ref="char:EOLhyphen"/>thonotary, <hi>One ſhilling.</hi>
+               </p>
+               <p>For the Allowance of every Writ of Er<g ref="char:EOLhyphen"/>ror, to the <hi>Steward</hi> and <hi>Marſhall, One pound.</hi>
+               </p>
+               <p>For the Prothono<g ref="char:EOLhyphen"/>tary for Entry thereof, <hi>Two ſhillings.</hi>
+               </p>
+               <pb n="38" facs="tcp:105031:26"/>
+               <p> For every Writ of Superſedeas, <hi>Two ſhil<g ref="char:EOLhyphen"/>lings</hi> and <hi>Six pence.</hi>
+               </p>
+               <p>For Certifying of Records to the Pro<g ref="char:EOLhyphen"/>thonotary for the wri<g ref="char:EOLhyphen"/>ting of every Roll of Parchment thereof, <hi>Six ſhillings</hi> and <hi>eight pence.</hi>
+               </p>
+               <p>For Correction of e<g ref="char:EOLhyphen"/>very Priſoner, in Exe<g ref="char:EOLhyphen"/>cution, to the Keeper of the Priſon, <hi>One ſhil<g ref="char:EOLhyphen"/>ling</hi> and <hi>Six pence.</hi>
+               </p>
+               <pb n="39" facs="tcp:105031:26"/>
+               <p> For the Prothono<g ref="char:EOLhyphen"/>taries Clerk's Fee there<g ref="char:EOLhyphen"/>upon, <hi>One ſhilling</hi> and <hi>Six pence.</hi>
+               </p>
+               <p>To the <hi>Turnkey</hi> thereupon, <hi>One ſhilling Four pence.</hi>
+               </p>
+               <p>For the Prothonota<g ref="char:EOLhyphen"/>ries <hi>Clerks Fee</hi> for the Entry of the <hi>Cauſe</hi> of Suit, and Releaſe of every Priſoner, <hi>Four pence.</hi>
+               </p>
+               <pb n="40" facs="tcp:105031:27"/>
+               <p> Upon every Obliga<g ref="char:EOLhyphen"/>tion of Appearance of the Priſoner to the ſaid <hi>Clerk, Six pence.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>HAving thus ſet down the <hi>Fees</hi> of this <hi>Court,</hi> that all <hi>Cli<g ref="char:EOLhyphen"/>ents</hi> may know their certain charge without
+<pb n="41" facs="tcp:105031:27"/>the trouble or danger of Exaction, and to ſhow the reaſonableneſſe and eaſie Rates thereof to what is uſed in other <hi>Courts,</hi> it will not be a<g ref="char:EOLhyphen"/>miſſe after this <hi>litigant</hi> part of this <hi>Court</hi> is thus deſcribed, to ſpeak a little of its Juriſdicti<g ref="char:EOLhyphen"/>on by way of Indict<g ref="char:EOLhyphen"/>ment, and reference to to the Peace.</p>
+               <pb n="42" facs="tcp:105031:28"/>
+               <p> You may know there<g ref="char:EOLhyphen"/>fore, as the Learned Lord <hi>Bacon</hi> ſaith in his <hi>Charge</hi> given to the <hi>Verge,</hi> that theſe foure things are cognizable and Inquirable in this <hi>Court,</hi> as well as in any other of the Kings <hi>Courts</hi> at <hi>Weſtminſter</hi> or elſe, for all Matters and Treſpaſſes com<g ref="char:EOLhyphen"/>mitted within the cir<g ref="char:EOLhyphen"/>cuit of the <hi>Verge</hi>
+               </p>
+               <pb n="43" facs="tcp:105031:28"/>
+               <p> 
+                  <hi>Firſt,</hi> All manner of Offences againſt <hi>God</hi> and the <hi>Church,</hi> contra<g ref="char:EOLhyphen"/>ry to the Statutes made againſt them, as <hi>Sacri<g ref="char:EOLhyphen"/>lege, Blaſphemy, Recu<g ref="char:EOLhyphen"/>ſancy, Separation,</hi> and the like.</p>
+               <p>
+                  <hi>Secondly,</hi> All manner of Offences againſt the <hi>King</hi> and the <hi>State,</hi> (more particularly the Perſon of the King) as <hi>Treaſons, Conſpiracies,
+<pb n="44" facs="tcp:105031:29"/>Riots, Tumults,</hi> and other leſſer Offences of the ſame kind and na<g ref="char:EOLhyphen"/>ture, and Generally whatever diſturbs the <hi>Publick Peace.</hi>
+               </p>
+               <p>Thirdly, All manner of Offences that are capital, and reach to the Life of the Offen<g ref="char:EOLhyphen"/>der.</p>
+               <p>
+                  <hi>Fourthly,</hi> All manner of Offences not capi<g ref="char:EOLhyphen"/>tal, extending to <hi>Fines,
+<pb n="45" facs="tcp:105031:29"/>Impriſonment, and Loſs of Limbs, Pillory</hi> and <hi>Whipping.</hi>
+               </p>
+               <p>All theſe particulars were uſually heard and determined at Set times in the Yeer, by the Lord Steward himſelfe in perſon, but of late by <hi>Commiſſion,</hi> which as it hath taken ſomething from the Honour, ſo hath it added to the Strength and Executi<g ref="char:EOLhyphen"/>on
+<pb n="46" facs="tcp:105031:30"/>of its Authority; ſo that you may ſee, as hath been ſaid, that this <hi>Court</hi> hath always been had in great vene<g ref="char:EOLhyphen"/>ration and reſpect.</p>
+               <p>It remains that ſome<g ref="char:EOLhyphen"/>thing ſhould be ſaid touching <hi>Attatchments, Sequeſtrings, Diſtreſſes. Replevins,</hi> &amp;c. as like<g ref="char:EOLhyphen"/>wiſe of <hi>Wagers of Law, Demurrers,</hi> and other ſuch Legal Defences;
+<pb n="47" facs="tcp:105031:30"/>and the Method and way of Proceeding in this <hi>Court</hi> in ſuch <hi>Caſes;</hi> but becauſe there is lit<g ref="char:EOLhyphen"/>tle variation here, from other <hi>Courts</hi> in the ſame Matters, ſave a due diſproportion in <hi>Fees,</hi> not very conſiderable; and becauſe the practice is more frequent in <hi>Cor<g ref="char:EOLhyphen"/>poration-Courts</hi> than <hi>here</hi> they are omitted in this little <hi>Treatiſe,</hi> which is
+<pb n="48" facs="tcp:105031:31"/>intended for no prolix <hi>Repetition</hi> of that which every perſon is ſuppo<g ref="char:EOLhyphen"/>ſed to have ſome under<g ref="char:EOLhyphen"/>ſtanding in, or may ea<g ref="char:EOLhyphen"/>ſily attain it by former Directions.</p>
+               <p>Thus have I conclu<g ref="char:EOLhyphen"/>ded the Account of this moſt Ancient and moſt Honourable <hi>Court,</hi> ha<g ref="char:EOLhyphen"/>ving been the larger in deducing its Juriſdicti<g ref="char:EOLhyphen"/>on, becauſe of the pet<g ref="char:EOLhyphen"/>ty
+<pb n="49" facs="tcp:105031:31"/>meane conceit and eſtimation people gene<g ref="char:EOLhyphen"/>rally have had thereof, (though its Decrees are as valid and binding as of any of the Benches of Law at <hi>Weſtminſter</hi>) deſiring the Reader to accept of this Ende<g ref="char:EOLhyphen"/>vour in good part, and wherein it is not fully ſatisfactory, to help it by his own obſervance, which a ſmall practice
+<pb n="50" facs="tcp:105031:32" rendition="simple:additions"/>or Suit will enable him to make therein. But before I have done, you muſt note, that as to Juries and Jurors this Court is not limited to Freeholders, but may be ſerved by any ſuffi<g ref="char:EOLhyphen"/>cient Inhabitants with<g ref="char:EOLhyphen"/>in the Verge; which alſo is not limited and confined in this or any other Reſidence of the Kings perſon, which
+<pb n="51" facs="tcp:105031:32"/>alone makes the place he ſtays at a Court; but whereever it ſhall happen for pleaſure, convenience, or other cauſes, as Sickneſſe, Infection, and the like, this Jurisdiction follow<g ref="char:EOLhyphen"/>eth His abode, and may be executed in as full &amp; ample manner with<g ref="char:EOLhyphen"/>in any 12 Miles of His abode and habitation; though for the Honour
+<pb n="52" facs="tcp:105031:33"/>of the Kings ancient Manſion, neer this His Imperial Chamber, the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> in all re<g ref="char:EOLhyphen"/>moves of the King and His Court, the Law proceeds here, and Tri<g ref="char:EOLhyphen"/>als are had, and Judge<g ref="char:EOLhyphen"/>ment and Execution as of courſe, and as uſed before.</p>
+               <p>But there muſt be a ſpecial care uſed by the
+<pb n="53" facs="tcp:105031:33"/>Marſhals men and o<g ref="char:EOLhyphen"/>ther his Officers, that <hi>they paſſe not the</hi> Verge in doing or executing any Proceſs or Judge<g ref="char:EOLhyphen"/>ment; for there is a Sta<g ref="char:EOLhyphen"/>tute to the contrary, made upon complaint of the exorbitant act<g ref="char:EOLhyphen"/>ings and unwarrantable proceedings in former times: And as 'tis a Maxime and chief San<g ref="char:EOLhyphen"/>ction of the Law, that
+<pb n="56" facs="tcp:105031:34"/>
+                  <hi>the King can do no wrong,</hi> ſo eſpecial care is to be had in the adminiſtra<g ref="char:EOLhyphen"/>tion of this Judicature, that His Subjects <hi>re<g ref="char:EOLhyphen"/>ceive</hi> none, being ſo neerly under his eye and protection, and his Court ſuppoſed by the Law to be a ſanctuary and ſhelter from all in<g ref="char:EOLhyphen"/>juſtice and oppreſſion: So that there is no fear of injury and Fraud in
+<pb n="57" facs="tcp:105031:34" rendition="simple:additions"/>this Court, in regard the King is in ſome ſort more perſonally preſent here than in other his Judicatures.</p>
+               <p>I thought to have ad<g ref="char:EOLhyphen"/>ded the Names of the dictinct Offices and Of<g ref="char:EOLhyphen"/>ficers belonging to this Court for further ſatis<g ref="char:EOLhyphen"/>faction, but I muſt not ſwell the Book, which hath exceeded its firſt deſignement.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
